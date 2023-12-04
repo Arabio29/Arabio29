@@ -5,7 +5,6 @@
 ## I am a software developer
 
 - 👨‍💻 I specialize in both Frontend and Backend development, using the most popular technologies.
-- 📚 I'm all about Frontend and Backend technologies 😅
 - 💪🏼 Future goals: Learn more technologies - Never stop creating new ideas.
 
 ---
@@ -14,19 +13,19 @@
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
+    user = 'Eliasib Cantor'
+	current_edu = "MERN Stack"
+    currently_learning = "Java"
     fun_fact = "I hate Chillies"
 	hobbies = [
-				'Music',
-                         'Chilling',
+				'Make music',
+                         'Volunteer',
 			 	'Gaming',
 				'Sci-Fi Movies'
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Bogotá_Colombia()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
