@@ -1,13 +1,15 @@
-<a target="_blank" align="center">
-  <img align="right"  height="120" width="200" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">  
-</a>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Eliasib;Full+stack+web+developer...;ethical+hacking+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+<div align="center">
+  <a href="#" target="_blank">
+    <img align="right"  height="120" width="200" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">  
+  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Eliasib;Full+stack+web+developer...;ethical+hacking+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+</div>
 
 ###  👋 I'm [Eliasib Cantor!](https://eliasib.netlify.app/)
 
 - 👨‍💻 I specialize in both Frontend and Backend development, using the most popular technologies.
 - 💪🏼 Future goals: Learn more technologies - Never stop creating new ideas.
--
+
 
 ---
 
