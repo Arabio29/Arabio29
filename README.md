@@ -1,16 +1,44 @@
-### Hi there 👋 I'm [Eliasib Cantor!](https://eliasib.netlify.app/)
+<a target="_blank" align="center">
+  <img align="right" top="100" height="270" width="380" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+  
+</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Eliasib;Full+stack+web+developer...;ethical+hacking+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-## I am a software developer
+###  👋 I'm [Eliasib Cantor!](https://eliasib.netlify.app/)
 
 - 👨‍💻 I specialize in both Frontend and Backend development, using the most popular technologies.
 - 💪🏼 Future goals: Learn more technologies - Never stop creating new ideas.
- ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+-
 
 ---
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 ## Who am I?
+ ```python
+  class WhoAmI:
+    user = 'Eliasib Cantor'
+	current_edu = "MERN Stack"
+    currently_learning = "Java"
+    fun_fact = "I hate Chillies"
+	hobbies = [
+				'Make music',
+                         'Volunteer',
+			 	'Gaming',
+				'Sci-Fi Movies'
+			]
+
+	def getCity():
+		return Bogotá_Colombia()
+
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+```
+
+## My Skills?
+
+```python
 
 class Eliasib:
 
@@ -32,12 +60,8 @@ class Eliasib:
     def __str__(self):
         return self.name
 
-
 if __name__ == '__main__':
-    me = Eliasib()
-
-
-	
+    me = Eliasib()	
  ```
 ---
 
@@ -45,6 +69,7 @@ if __name__ == '__main__':
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
