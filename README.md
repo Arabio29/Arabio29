@@ -6,30 +6,37 @@
 
 - 👨‍💻 I specialize in both Frontend and Backend development, using the most popular technologies.
 - 💪🏼 Future goals: Learn more technologies - Never stop creating new ideas.
+ ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 ---
 
 ## Who am I?
 
- ```python
-  class WhoAmI:
-    user = 'Eliasib Cantor'
-	current_edu = "MERN Stack"
-    currently_learning = "Java"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Make music',
-                         'Volunteer',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Bogotá_Colombia()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+class Eliasib:
+
+    def __init__(self):
+        self.username = 'arabio29'
+        self.name = 'Eliasib Cantor'
+        self.web = 'https://eliasib.netlify.app/'
+        self.youtube = 'EliasibTec'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'AngularJS', 'Astro', 'Boostrap', 'TailWind'],
+            'backend': ['Java', 'Spring', 'C#', '.NET', 'NodeJS'],
+            'database': [ 'MySQL', 'SQLserver','PostgreSQL', 'Mongo DB'],
+            'devops': ['Docker', 'GitHub Actions', 'AWS', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'AzureDev', 'Ionic', 'Redis'],
+            'misc': ['Firebase', 'SCRUM', 'SOLID', 'GNU/Linux']
+        }
+        self.architecture = ['microapps', 'JPA', 'SPA', 'MVC', 'Serverless', 'microservices']
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Eliasib()
+
+
 	
  ```
 ---
