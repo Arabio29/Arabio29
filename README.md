@@ -1,7 +1,7 @@
 <div align="center">
   <img height="250" src="https://fundacionprincesasguerreras.com/wp-content/uploads/2024/05/bannerCode.jpg" />
 </div>
-
+¡Hola! Soy Eliasib Cantor, un apasionado programador full stack con experiencia en el desarrollo web, utilizando tecnologías como Java, Spring Boot, .NET y Angular. Destaco por mi meticulosidad en el desarrollo, siempre cumpliendo con estándares de calidad y prestando atención al detalle. Mi repositorio de GitHub refleja mi compromiso con el aprendizaje continuo y la innovación, con una variedad de proyectos que abarcan desde aplicaciones de consola simples hasta proyectos más complejos. Siempre estoy en busca de nuevas oportunidades de colaboración y emocionado por contribuir a proyectos emocionantes. ¡No dudes en contactarme para conversar sobre tecnología o posibles colaboraciones!
 
 ---
 
