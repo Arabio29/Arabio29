@@ -1,25 +1,8 @@
 <div align="center">
   <img height="240" src="https://fundacionprincesasguerreras.com/wp-content/uploads/2024/05/bannerCode.jpg" />
 </div>
-¡Hola! Soy Eliasib Cantor, un apasionado programador full stack con experiencia en el desarrollo web, utilizando tecnologías como Java, Spring Boot, .NET y Angular. Destaco por mi meticulosidad en el desarrollo, siempre cumpliendo con estándares de calidad y prestando atención al detalle. Mi repositorio de GitHub refleja mi compromiso con el aprendizaje continuo y la innovación, con una variedad de proyectos que abarcan desde aplicaciones de consola simples hasta proyectos más complejos. Siempre estoy en busca de nuevas oportunidades de colaboración y emocionado por contribuir a proyectos emocionantes. ¡No dudes en contactarme para conversar sobre tecnología o posibles colaboraciones!
 
-¡Hola! Soy Eliasib Cantor
-Desarrollador Full Stack | Especialista en .NET Blazor
-
-💻 Tecnologías principales:
-
-.NET Blazor (WebAssembly/Server)
-
-Angular, HTML5, CSS3, Bootstrap, JavaScript
-
-Java con Spring Boot
-
-Automatización con Make (Integromat)
-
-Desarrollo de Chatbots y Agentes AI
-
-🔧 Enfoque:
-Ingeniero de software meticuloso, especializado en crear soluciones robustas con atención al detalle y estándares de calidad
+Hello! I'm Eliasib Cantor, a Full Stack Software Engineer specialized in Web and API development. I master frontend technologies such as .NET Blazor (WebAssembly/Server), MAUI, Angular, HTML5, CSS3, Bootstrap, and JavaScript, along with a REST.NET Core/Spring BootJava backend for scalable systems. I automate processes with Make (Integromat) and develop chatbots/intelligent agents. My meticulous approach ensures robust solutions, with attention to quality standards and technical details. I'm open to challenging collaborations where I can contribute my technical expertise!
 
 ---
 
