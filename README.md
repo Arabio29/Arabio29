@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="240" src="https://wireed.online./wp-content/uploads/2025/04/bannerCode.jpg" />
+  <img height="240" src="https://drive.google.com/file/d/13EE9FLC5dvGfB9bTEuxZIXYwxLS8cwzq/view?usp=sharing" />
 </div>
 
 Hello! I'm Eliasib Cantor, a Full Stack Software Engineer specialized in Web and API development. I master frontend technologies such as .NET Blazor (WebAssembly/Server), MAUI, Angular, HTML5, CSS3, Bootstrap, and JavaScript, along with a REST.NET Core/Spring BootJava backend for scalable systems. I automate processes with Make (Integromat) and develop chatbots/intelligent agents. My meticulous approach ensures robust solutions, with attention to quality standards and technical details. I'm open to challenging collaborations where I can contribute my technical expertise!
