@@ -2,7 +2,10 @@
   <img height="240" src="https://saddlebrown-bison-764600.hostingersite.com/wp-content/uploads/2025/10/bannerCode.jpg" />
 </div>
 
-Hello! I'm Eliasib Cantor, a Full Stack Software Engineer specialized in Web and API development. I master frontend technologies such as .NET Blazor (WebAssembly/Server), MAUI, Angular, HTML5, CSS3, Bootstrap, and JavaScript, along with a REST.NET Core/Spring BootJava backend for scalable systems. I automate processes with Make (Integromat) and develop chatbots/intelligent agents. My meticulous approach ensures robust solutions, with attention to quality standards and technical details. I'm open to challenging collaborations where I can contribute my technical expertise!
+Hello! I'm Eliasib Cantor, Full Stack Developer specialized in C# with .NET (backend), Blazor and Angular (frontend). Focused on building clean, scalable, and maintainable enterprise applications.
+Experienced in component-based architectures, service integration, global state management, and Clean Code principles.
+Skilled with Azure DevOps (CI/CD) and Docker for containerization and efficient deployment.
+Passionate about creating solutions that optimize business processes and improve user experience, always prioritizing code quality, scalability, and performance.
 
 ---
 
@@ -43,5 +46,8 @@ Hello! I'm Eliasib Cantor, a Full Stack Software Engineer specialized in Web and
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="35" alt="wordpress logo"  />
 </div>
+
+##
+![snake gif](https://github.com/mahdi-al-mutaallim/mahdi-al-mutaallim/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
