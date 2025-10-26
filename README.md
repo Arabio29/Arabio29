@@ -7,6 +7,22 @@ Experienced in component-based architectures, service integration, global state 
 Skilled with Azure DevOps (CI/CD) and Docker for containerization and efficient deployment.
 Passionate about creating solutions that optimize business processes and improve user experience, always prioritizing code quality, scalability, and performance.
 
+<div align="center">
+  <code><a href="https://www.linkedin.com/in/eliasib-cantor-805457231/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>
+</div>
+
+<p align="center">
+<a href="https://github.com/walidbosso"> 
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+<a href="https://github.com/walidbosso"> 
+<img align="center" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80">
+</a>
+<a href="https://github.com/walidbosso"> 
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+</p>
+
 ---
 
 <div align="left">
