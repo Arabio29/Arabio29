@@ -12,13 +12,13 @@ Passionate about creating solutions that optimize business processes and improve
 </div>
 
 <p align="center">
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/Arabio29"> 
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/Arabio29"> 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80">
 </a>
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/Arabio29"> 
  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
 </p>
