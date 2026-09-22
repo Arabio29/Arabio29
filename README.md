@@ -22,9 +22,6 @@
 ## 👨‍💻 About Me
 
 ```yaml
-## 👨‍💻 About Me
-
-```yaml
 name: Eliasib Cantor
 role: Full-Stack Software Engineer
 location: Colombia 🇨🇴
