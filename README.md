@@ -131,35 +131,102 @@ I'm evolving from traditional enterprise development toward building **cloud-nat
 
 # 🛠️ Tech Stack
 
-### Core
+<div align="center">
+
+### 💻 Languages & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,python" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,python,java,php" />
 </p>
-
-### Backend & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=angular,tailwind,html,css,bootstrap" />
 </p>
-
-`ASP.NET Core` · `REST APIs` · `SQL Server` · `Entity Framework Core` · `Swagger / OpenAPI`
-
-### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,azure,linux,nginx,git,github" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-`Azure DevOps` · `CI/CD` · `Docker` · `Linux` · `Nginx`
+---
 
-### Frontend
+### 🗄️ Databases & Backend Services
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,redis" />
 </p>
 
-`Blazor` · `Angular` · `TypeScript` · `JavaScript`
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+---
+
+### ☁️ Cloud, Infrastructure & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,nginx,git,github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+---
+
+### 🧰 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+---
+
+### 🤖 AI, LLMs & AI-Assisted Development
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D4A574?style=for-the-badge&logo=anthropic&logoColor=black" />
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM_Studio-111111?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local_LLMs-222222?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+### 🤝 Collaboration & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Boards-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
